@@ -186,7 +186,7 @@ WHERE date_rank = 1
 - In the CTE:
     - **SELECT** the following columns in the CTE:
         - `customer_id`, `order_date`, `product_name`
-        - Use the **DENSE_RANK** window function to assign a ranking to each purchase date within each customer group. The **PARTITION BY** clause ****partitions the data by `customer_id`, and the **ORDER BY** clause puts the `order_date` in order within each partition.
+        - Use the **DENSE_RANK** window function to assign a ranking to each purchase date within each customer group. The **PARTITION BY** clause partitions the data by `customer_id`, and the **ORDER BY** clause puts the `order_date` in order within each partition.
     - Use **JOIN** to merge `sales` table with the `menu` table based on the `product_id` column.
     - Group the data by `customer_id` , `product_name`.
 - In the outer query:
