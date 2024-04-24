@@ -1,7 +1,7 @@
 
 # Case Study #2 - Pizza Runner
 
-<img src="Week2_Cover.png" alt="Cover" width="350" height="350">
+<img src="Cover.png" alt="Cover" width="350" height="350">
 
 ## Table of contents
 - [Introduction](#introduction)
