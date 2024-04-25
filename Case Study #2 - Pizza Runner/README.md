@@ -173,7 +173,7 @@ This table contains all of the **```topping_name```** values with their correspo
 
 <a id="entity-relationship-diagram"></a>
 ## **ENTITY RELATIONSHIP DIAGRAM**
-<img src="ERD.png" alt="ERD" width="600" height="400">
+![ERD](https://github.com/alitanguyen/8-week-SQL-challenge/assets/157590309/37759151-ea61-46f3-8c72-f2c892d3d538)
 
 <a id="questions-and-solutions"></a>
 ## QUESTIONS AND SOLUTIONS
