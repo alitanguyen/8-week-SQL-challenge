@@ -8,10 +8,10 @@ Case Study #2 - Pizza Runner
 -- Insert a new Supreme pizza into table `pizza_names`
 INSERT INTO pizza_runner..pizza_names (pizza_id, pizza_name)
 VALUES
-(3, 'Supreme')
+(3, 'Supreme');
 
 SELECT *
-FROM pizza_runner..pizza_names
+FROM pizza_runner..pizza_names;
 
 -- Insert toppings of a new Supreme pizza into table `pizza_recipes`
 ALTER TABLE pizza_runner..pizza_recipes
@@ -19,10 +19,10 @@ ALTER COLUMN toppings VARCHAR(39);
 
 INSERT INTO pizza_runner..pizza_recipes (pizza_id, toppings) 
 VALUES
-(3, '1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12')
+(3, '1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12');
 
 SELECT *
-FROM pizza_runner..pizza_recipes
+FROM pizza_runner..pizza_recipes;
 
 
 
