@@ -182,10 +182,10 @@ This table contains all of the **```topping_name```** values with their correspo
 ### Data Cleaning 
 I found out some data type issues in certain columns that need to be addressed and cleaned before being used in my queries.
 
-View my solution HERE.
+View my solution [HERE](https://github.com/alitanguyen/8-week-SQL-challenge/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/Solutions/Data_Cleaning.md).
 
 ### A. Pizza Metrics
-View my solution HERE.
+View my solution [HERE](https://github.com/alitanguyen/8-week-SQL-challenge/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/Solutions/A.%20Pizza_Metrics.md).
 
 - How many pizzas were ordered?
 - How many unique customer orders were made?
@@ -199,7 +199,7 @@ View my solution HERE.
 - What was the volume of orders for each day of the week?
 
 ### B. Runner and Customer Experience
-View my solution HERE.
+View my solution [HERE](https://github.com/alitanguyen/8-week-SQL-challenge/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/Solutions/B.%20Runner_and_Customer_Experience.md).
 
 - How many runners signed up for each 1 week period? (i.e. week starts 2021-01-01)
 - What was the average time in minutes it took for each runner to arrive at the Pizza Runner HQ to pickup the order?
@@ -210,7 +210,7 @@ View my solution HERE.
 - What is the successful delivery percentage for each runner?
 
 ### C. Ingredient Optimisation
-View my solution HERE.
+View my solution [HERE](https://github.com/alitanguyen/8-week-SQL-challenge/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/Solutions/C.%20Ingredient_Optimisation.md).
 
 - What are the standard ingredients for each pizza?
 - What was the most commonly added extra?
@@ -225,7 +225,7 @@ View my solution HERE.
 - What is the total quantity of each ingredient used in all delivered pizzas sorted by most frequent first?
 
 ### D. Pricing and Ratings
-View my solution HERE.
+View my solution [HERE](https://github.com/alitanguyen/8-week-SQL-challenge/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/Solutions/D.%20Pricing_and%20_Ratings.md).
 
 - If a Meat Lovers pizza costs $12 and Vegetarian costs $10 and there were no charges for changes - how much money has Pizza Runner made so far if there are no delivery fees?
 - What if there was an additional $1 charge for any pizza extras?
